@@ -8,16 +8,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
-  
-  img.one {
-    height: auto;
-    width: auto;
-}
-
-img.two {
-    height: 50%;
-    width: 50%;
-}
 
 a {
   color: #1e6bb8;
